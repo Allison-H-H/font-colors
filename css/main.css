@@ -35,9 +35,9 @@ h2 {
 }
 
 
-/**** For screens 768 - 1999px ****/
+/**** For screens 768 - 1199px ****/
 
-@media (min-width: 768px) and (max-width: 1999px) {
+@media (min-width: 768px) and (max-width: 1199px) {
     h1 {
         color: #02cbd2;
     }
